@@ -76,7 +76,7 @@ Install from AnkiWeb or clone this repository into your `addons21` folder.
 
 While studying, I often wanted to keep helper words, mnemonics, or personal notes inside my cards without displaying them during review.
 
-Transparent Text provides a simple one-click solution without adding extra fields or changing your card templates.
+Transparent Text provides a simple one-click solution without adding extra fields or changing your card templates. Because it uses transparent text instead of fixed colours, your hidden notes remain invisible in both Light and Dark mode without any extra work.
 
 ---
 
