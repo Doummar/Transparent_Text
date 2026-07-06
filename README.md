@@ -88,4 +88,4 @@ Open an issue on GitHub.
 
 ---
 
-**Hide what you need, remember what matters! — Adel**
+**Hide what you need, remember what matters!** - Adel
